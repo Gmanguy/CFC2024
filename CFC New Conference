@@ -251,7 +251,7 @@
       "confTeams" : [
         {
           "abbreviation" : "UM",
-          "prestige" : "90",
+          "prestige" : "85",
           "hexColor" : "#00274C",
           "rival" : "MSU",
           "headCoach" : {
@@ -323,7 +323,7 @@
         },
         {
           "abbreviation" : "PSU",
-          "prestige" : "80",
+          "prestige" : "84",
           "hexColor" : "#001E44",
           "rival" : "OSU",
           "headCoach" : {
@@ -347,7 +347,7 @@
         },
         {
           "abbreviation" : "MINN",
-          "prestige" : "68",
+          "prestige" : "72",
           "hexColor" : "#7A0019",
           "rival" : "WIS",
           "headCoach" : {
@@ -371,7 +371,7 @@
         },
         {
           "abbreviation" : "WIS",
-          "prestige" : "75",
+          "prestige" : "72",
           "hexColor" : "#C5050C",
           "rival" : "MINN",
           "headCoach" : {
@@ -395,7 +395,7 @@
         },
         {
           "abbreviation" : "IOWA",
-          "prestige" : "76",
+          "prestige" : "74",
           "hexColor" : "#000000",
           "rival" : "NEB",
           "headCoach" : {
@@ -466,9 +466,9 @@
           "state" : "Indiana"
         },
         {
-          "abbreviation" : "NW",
-          "prestige" : "62",
-          "hexColor" : "#4E2A84",
+          "abbreviation" : "UIL",
+          "prestige" : "68",
+          "hexColor" : "#E84A27",
           "rival" : "PUR",
           "headCoach" : {
             "contractLength" : "6",
@@ -486,7 +486,7 @@
             "name" : "Pat Fitzgerald",
             "contractYear" : "0"
           },
-          "name" : "Northwestern",
+          "name" : "Illinois",
           "state" : "Illinois"
         }
       ],
@@ -498,9 +498,9 @@
       "confTeams" : [
         {
           "abbreviation" : "CLEM",
-          "prestige" : "84",
+          "prestige" : "82",
           "hexColor" : "#F66733",
-          "rival" : "NCST",
+          "rival" : "PITT",
           "headCoach" : {
             "contractLength" : "7",
             "startYear" : "2020",
@@ -522,9 +522,9 @@
         },
         {
           "abbreviation" : "PITT",
-          "prestige" : "67",
+          "prestige" : "70",
           "hexColor" : "#003594",
-          "rival" : "CUSE",
+          "rival" : "CLEM",
           "headCoach" : {
             "contractLength" : "2",
             "startYear" : "2020",
@@ -546,7 +546,7 @@
         },
         {
           "abbreviation" : "VT",
-          "prestige" : "74",
+          "prestige" : "72",
           "hexColor" : "#861F41",
           "rival" : "UVA",
           "headCoach" : {
@@ -570,9 +570,9 @@
         },
         {
           "abbreviation" : "NCST",
-          "prestige" : "76",
+          "prestige" : "70",
           "hexColor" : "#CC0000",
-          "rival" : "CLEM",
+          "rival" : "UNC",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -594,7 +594,7 @@
         },
         {
           "abbreviation" : "FSU",
-          "prestige" : "83",
+          "prestige" : "80",
           "hexColor" : "#782F40",
           "rival" : "MIA",
           "headCoach" : {
@@ -618,7 +618,7 @@
         },
         {
           "abbreviation" : "MIA",
-          "prestige" : "79",
+          "prestige" : "84",
           "hexColor" : "#005030",
           "rival" : "FSU",
           "headCoach" : {
@@ -689,10 +689,10 @@
           "state" : "Massachusetts"
         },
         {
-          "abbreviation" : "CUSE",
-          "prestige" : "64",
-          "hexColor" : "#F76900",
-          "rival" : "PITT",
+          "abbreviation" : "UNC",
+          "prestige" : "68",
+          "hexColor" : "#7BAFD4",
+          "rival" : "NCST",
           "headCoach" : {
             "contractLength" : "2",
             "startYear" : "2020",
@@ -709,12 +709,12 @@
             "name" : "Dino Babers",
             "contractYear" : "0"
           },
-          "name" : "Syracuse",
-          "state" : "New York"
+          "name" : "North Carolina",
+          "state" : "North Carolina"
         },
         {
           "abbreviation" : "UVA",
-          "prestige" : "74",
+          "prestige" : "70",
           "hexColor" : "#232D4B",
           "rival" : "VT",
           "headCoach" : {
@@ -793,7 +793,7 @@
         },
         {
           "abbreviation" : "WVU",
-          "prestige" : "70",
+          "prestige" : "66",
           "hexColor" : "#EAAA00",
           "rival" : "OKST",
           "headCoach" : {
@@ -817,7 +817,7 @@
         },
         {
           "abbreviation" : "TCU",
-          "prestige" : "76",
+          "prestige" : "72",
           "hexColor" : "#4D1979",
           "rival" : "BAYL",
           "headCoach" : {
@@ -865,7 +865,7 @@
         },
         {
           "abbreviation" : "ISU",
-          "prestige" : "74",
+          "prestige" : "76",
           "hexColor" : "#C8102E",
           "rival" : "TTEC",
           "headCoach" : {
@@ -889,7 +889,7 @@
         },
         {
           "abbreviation" : "TTEC",
-          "prestige" : "71",
+          "prestige" : "68",
           "hexColor" : "#CC0000",
           "rival" : "ISU",
           "headCoach" : {
@@ -913,7 +913,7 @@
         },
         {
           "abbreviation" : "OKSU",
-          "prestige" : "77",
+          "prestige" : "76",
           "hexColor" : "#FE5C00",
           "rival" : "WVU",
           "headCoach" : {
@@ -937,7 +937,7 @@
         },
         {
           "abbreviation" : "KSU",
-          "prestige" : "81",
+          "prestige" : "80",
           "hexColor" : "#512888",
           "rival" : "KS",
           "headCoach" : {
@@ -961,7 +961,7 @@
         },
         {
           "abbreviation" : "KS",
-          "prestige" : "73",
+          "prestige" : "68",
           "hexColor" : "#0051BA",
           "rival" : "KSU",
           "headCoach" : {
@@ -1088,7 +1088,7 @@
         },
         {
           "abbreviation" : "ORE",
-          "prestige" : "83",
+          "prestige" : "86",
           "hexColor" : "#036936",
           "rival" : "ORST",
           "headCoach" : {
@@ -1184,7 +1184,7 @@
         },
         {
           "abbreviation" : "UTAH",
-          "prestige" : "78",
+          "prestige" : "80",
           "hexColor" : "#CC0000",
           "rival" : "ASU",
           "headCoach" : {
@@ -1208,7 +1208,7 @@
         },
         {
           "abbreviation" : "ASU",
-          "prestige" : "63",
+          "prestige" : "67",
           "hexColor" : "#8C1D40",
           "rival" : "UTAH",
           "headCoach" : {
@@ -1407,7 +1407,7 @@
         },
         {
           "abbreviation" : "SMU",
-          "prestige" : "73",
+          "prestige" : "75",
           "hexColor" : "#354CA1",
           "rival" : "HOU",
           "headCoach" : {
@@ -1486,7 +1486,7 @@
       "confTeams" : [
         {
           "abbreviation" : "BSU",
-          "prestige" : "58",
+          "prestige" : "68",
           "hexColor" : "#0033A0",
           "rival" : "FRES",
           "headCoach" : {
@@ -1510,7 +1510,7 @@
         },
         {
           "abbreviation" : "FRES",
-          "prestige" : "57",
+          "prestige" : "62",
           "hexColor" : "#C41230",
           "rival" : "BSU",
           "headCoach" : {
@@ -1534,7 +1534,7 @@
         },
         {
           "abbreviation" : "BYU",
-          "prestige" : "59",
+          "prestige" : "67",
           "hexColor" : "#002E5D",
           "rival" : "USU",
           "headCoach" : {
@@ -1702,7 +1702,7 @@
         },
         {
           "abbreviation" : "USAF",
-          "prestige" : "45",
+          "prestige" : "47",
           "hexColor" : "#004F98",
           "rival" : "HI",
           "headCoach" : {
@@ -1733,7 +1733,7 @@
       "confTeams" : [
         {
           "abbreviation" : "APP",
-          "prestige" : "52",
+          "prestige" : "51",
           "hexColor" : "#000000",
           "rival" : "GS",
           "headCoach" : {
