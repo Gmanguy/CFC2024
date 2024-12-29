@@ -1,22 +1,22 @@
 {  
   "proRelMode" : "vertical",
   "promotionRoutes" : {
-    "ECC" : "ACC",
+    "ECC" : "AAC",
     "MWC" : "PAC",
     "AAC" : "SEC",
     "CUSA" : "XII",
     "MAC" : "B1G",
     "CAC" : "MAC",
-    "SBC" : "AAC"
+    "SBC" : "ACC"
   },
   "relegationRoutes" : {
     "SEC" : "AAC",
     "B1G" : "MAC",
-    "ACC" : "ECC",
+    "AAC" : "ECC",
     "XII" : "CUSA",
     "PAC" : "MWC",
     "MAC" : "CAC",
-    "AAC" : "SBC"
+    "ACC" : "SBC"
   },
   "conferences" : [
     {
@@ -2763,10 +2763,10 @@
           "state" : "Virginia"
         },
         {
-          "abbreviation" : "U",
-          "prestige" : "25",
-          "hexColor" : "#450084",
-          "rival" : "WM",
+          "abbreviation" : "UCF",
+          "prestige" : "56",
+          "hexColor" : "#ba9b37",
+          "rival" : "USF",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -2783,14 +2783,14 @@
             "name" : "Curt Cignetti",
             "contractYear" : "0"
           },
-          "name" : "James Madison",
-          "state" : "Virginia"
+          "name" : "UCF",
+          "state" : "Florida"
         },
         {
-          "abbreviation" : "STON",
-          "prestige" : "25",
-          "hexColor" : "#990000",
-          "rival" : "MAI",
+          "abbreviation" : "UAB",
+          "prestige" : "38",
+          "hexColor" : "#006341",
+          "rival" : "USA",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -2807,13 +2807,13 @@
             "name" : "Chuck Priore",
             "contractYear" : "0"
           },
-          "name" : "Stony Brook",
-          "state" : "New York"
+          "name" : "UAB",
+          "state" : "Alabama"
         },
         {
-          "abbreviation" : "TOW",
-          "prestige" : "25",
-          "hexColor" : "#FFBB00",
+          "abbreviation" : "USA",
+          "prestige" : "34",
+          "hexColor" : "#00205B",
           "rival" : "DEL",
           "headCoach" : {
             "contractLength" : "4",
@@ -2831,14 +2831,14 @@
             "name" : "Rob Ambrose",
             "contractYear" : "0"
           },
-          "name" : "Towson",
-          "state" : "Maryland"
+          "name" : "Southern Alabama",
+          "state" : "Alabama"
         },
         {
-          "abbreviation" : "DEL",
-          "prestige" : "25",
-          "hexColor" : "#00539F",
-          "rival" : "TOW",
+          "abbreviation" : "MTSU",
+          "prestige" : "36",
+          "hexColor" : "#0066CC",
+          "rival" : "AKST",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -2855,14 +2855,14 @@
             "name" : "Danny Rocco",
             "contractYear" : "0"
           },
-          "name" : "Delware",
-          "state" : "Delaware"
+          "name" : "MTSU",
+          "state" : "Tennessee"
         },
         {
-          "abbreviation" : "ELO",
-          "prestige" : "25",
-          "hexColor" : "#73000A",
-          "rival" : "VILA",
+          "abbreviation" : "AKST",
+          "prestige" : "40",
+          "hexColor" : "#A32136",
+          "rival" : "MTSU",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -2879,14 +2879,14 @@
             "name" : "Tony Trisciani",
             "contractYear" : "0"
           },
-          "name" : "Elon",
-          "state" : "North Carolina"
+          "name" : "Arkansas State",
+          "state" : "Arkansas"
         },
         {
-          "abbreviation" : "RHO",
-          "prestige" : "25",
+          "abbreviation" : "ULL",
+          "prestige" : "42",
           "hexColor" : "#002147",
-          "rival" : "HAMP",
+          "rival" : "ULM",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -2903,14 +2903,14 @@
             "name" : "Jim Fleming",
             "contractYear" : "0"
           },
-          "name" : "Rhode Island",
-          "state" : "Rhode Island"
+          "name" : "ULL",
+          "state" : "Louisiana"
         },
         {
-          "abbreviation" : "WM",
-          "prestige" : "25",
-          "hexColor" : "#115740",
-          "rival" : "JMU",
+          "abbreviation" : "ULM",
+          "prestige" : "38",
+          "hexColor" : "#FDB913",
+          "rival" : "LAT",
           "headCoach" : {
             "contractLength" : "3",
             "startYear" : "2020",
@@ -2927,14 +2927,14 @@
             "name" : "Mike London",
             "contractYear" : "0"
           },
-          "name" : "William & Mary",
-          "state" : "Virginia"
+          "name" : "ULM",
+          "state" : "Louisiana"
         },
         {
-          "abbreviation" : "HAMP",
-          "prestige" : "25",
-          "hexColor" : "#003591",
-          "rival" : "RHO",
+          "abbreviation" : "LAT",
+          "prestige" : "46",
+          "hexColor" : "#002F8B",
+          "rival" : "ULL",
           "headCoach" : {
             "contractLength" : "2",
             "startYear" : "2020",
@@ -2951,14 +2951,14 @@
             "name" : "Sean McDonnell",
             "contractYear" : "0"
           },
-          "name" : "New Hampshire",
-          "state" : "New Hampshire"
+          "name" : "LA Tech",
+          "state" : "Louisiana"
         },
         {
-          "abbreviation" : "VILA",
-          "prestige" : "25",
+          "abbreviation" : "GAST",
+          "prestige" : "38",
           "hexColor" : "#002664",
-          "rival" : "ELO",
+          "rival" : "GT",
           "headCoach" : {
             "contractLength" : "4",
             "startYear" : "2020",
@@ -2975,13 +2975,13 @@
             "name" : "Mark Ferrante",
             "contractYear" : "0"
           },
-          "name" : "Villanova",
-          "state" : "Pennsylvania"
+          "name" : "Georgia State",
+          "state" : "Georgia"
         }
       ],
-      "confFullName" : "Colonial Athletic FCS",
-      "confPrestige" : "25",
-      "confName" : "CAA"
+      "confFullName" : "Eastern Colonial Conference",
+      "confPrestige" : "38",
+      "confName" : "ECC"
     }
   ],
   "bowlGames" : [
