@@ -1035,7 +1035,7 @@
         },
         {
           "abbreviation" : "WSU",
-          "prestige" : "68",
+          "prestige" : "67",
           "hexColor" : "#981E32",
           "rival" : "UW",
           "headCoach" : {
@@ -1083,7 +1083,7 @@
         },
         {
           "abbreviation" : "UCLA",
-          "prestige" : "74",
+          "prestige" : "72",
           "hexColor" : "#2774AE",
           "rival" : "USC",
           "headCoach" : {
@@ -1131,7 +1131,7 @@
         },
         {
           "abbreviation" : "UW",
-          "prestige" : "78",
+          "prestige" : "73",
           "hexColor" : "#4B2E83",
           "rival" : "WSU",
           "headCoach" : {
@@ -1155,7 +1155,7 @@
         },
         {
           "abbreviation" : "STAN",
-          "prestige" : "66",
+          "prestige" : "64",
           "hexColor" : "#8C1515",
           "rival" : "CAL",
           "headCoach" : {
@@ -1203,7 +1203,7 @@
         },
         {
           "abbreviation" : "AU",
-          "prestige" : "74",
+          "prestige" : "73",
           "hexColor" : "#CC0033",
           "rival" : "ASU",
           "headCoach" : {
@@ -1227,9 +1227,9 @@
         },
         {
           "abbreviation" : "ASU",
-          "prestige" : "72",
+          "prestige" : "70",
           "hexColor" : "#8C1D40",
-          "rival" : "UTAH",
+          "rival" : "AU",
           "headCoach" : {
             "contractLength" : "4",
             "startYear" : "2020",
@@ -1251,14 +1251,14 @@
         }
       ],
       "confFullName" : "Pac 12",
-      "confPrestige" : "87",
+      "confPrestige" : "85",
       "confName" : "PAC"
     },
     {
       "confTeams" : [
         {
           "abbreviation" : "UCF",
-          "prestige" : "68",
+          "prestige" : "58",
           "hexColor" : "#B7A369",
           "rival" : "USF",
           "headCoach" : {
@@ -1282,7 +1282,7 @@
         },
         {
           "abbreviation" : "USF",
-          "prestige" : "61",
+          "prestige" : "60",
           "hexColor" : "#006747",
           "rival" : "UCF",
           "headCoach" : {
@@ -1306,7 +1306,7 @@
         },
         {
           "abbreviation" : "CIN",
-          "prestige" : "94",
+          "prestige" : "60",
           "hexColor" : "#E00112",
           "rival" : "MEM",
           "headCoach" : {
@@ -1330,7 +1330,7 @@
         },
         {
           "abbreviation" : "MEM",
-          "prestige" : "60",
+          "prestige" : "66",
           "hexColor" : "#003087",
           "rival" : "CIN",
           "headCoach" : {
@@ -1353,10 +1353,10 @@
           "state" : "Tennessee"
         },
         {
-          "abbreviation" : "CONN",
-          "prestige" : "57",
-          "hexColor" : "#000E2F",
-          "rival" : "TEM",
+          "abbreviation" : "LU",
+          "prestige" : "64",
+          "hexColor" : "#AD0000",
+          "rival" : "MEM",
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2020",
@@ -1373,14 +1373,14 @@
             "name" : "Randy Edsall",
             "contractYear" : "0"
           },
-          "name" : "UConn",
-          "state" : "Connecticut"
+          "name" : "Louisville",
+          "state" : "Kentucky"
         },
         {
-          "abbreviation" : "TEM",
-          "prestige" : "59",
-          "hexColor" : "#9E1B34",
-          "rival" : "CONN",
+          "abbreviation" : "VAND",
+          "prestige" : "66",
+          "hexColor" : "#866d4b",
+          "rival" : "GT",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -1397,14 +1397,14 @@
             "name" : "Rod Carey",
             "contractYear" : "0"
           },
-          "name" : "Temple",
-          "state" : "Pennsylvania"
+          "name" : "Vanderbilt",
+          "state" : "Tennessee"
         },
         {
           "abbreviation" : "HOU",
-          "prestige" : "60",
+          "prestige" : "56",
           "hexColor" : "#C8102E",
-          "rival" : "SMU",
+          "rival" : "TUL",
           "headCoach" : {
             "contractLength" : "2",
             "startYear" : "2020",
@@ -1425,7 +1425,7 @@
           "state" : "Texas"
         },
         {
-          "abbreviation" : "SMU",
+          "abbreviation" : "WKU",
           "prestige" : "57",
           "hexColor" : "#354CA1",
           "rival" : "HOU",
@@ -1445,14 +1445,14 @@
             "name" : "Sonny Dikes",
             "contractYear" : "0"
           },
-          "name" : "Southern Methodist",
-          "state" : "Texas"
+          "name" : "Western Kentucky",
+          "state" : "Kentucky"
         },
         {
           "abbreviation" : "TULN",
-          "prestige" : "59",
-          "hexColor" : "#336666",
-          "rival" : "TLSA",
+          "prestige" : "66",
+          "hexColor" : "#006747",
+          "rival" : "MSST",
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2020",
@@ -1473,9 +1473,9 @@
           "state" : "Louisiana"
         },
         {
-          "abbreviation" : "TLSA",
-          "prestige" : "58",
-          "hexColor" : "#003366",
+          "abbreviation" : "MSST",
+          "prestige" : "68",
+          "hexColor" : "#660000",
           "rival" : "TULN",
           "headCoach" : {
             "contractLength" : "5",
@@ -1493,19 +1493,19 @@
             "name" : "Philip Montgomery",
             "contractYear" : "0"
           },
-          "name" : "Tulsa",
-          "state" : "Oklahoma"
+          "name" : "Mississippi State",
+          "state" : "Mississippi"
         }
       ],
       "confFullName" : "American Athletic Conference",
-      "confPrestige" : "60",
+      "confPrestige" : "70",
       "confName" : "AAC"
     },
     {
       "confTeams" : [
         {
           "abbreviation" : "BSU",
-          "prestige" : "58",
+          "prestige" : "68",
           "hexColor" : "#0033A0",
           "rival" : "FRES",
           "headCoach" : {
