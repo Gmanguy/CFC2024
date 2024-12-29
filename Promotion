@@ -1004,7 +1004,7 @@
         }
       ],
       "confFullName" : "Big 12",
-      "confPrestige" : "87",
+      "confPrestige" : "90",
       "confName" : "XII"
     },
     {
@@ -1251,7 +1251,7 @@
         }
       ],
       "confFullName" : "Pac 12",
-      "confPrestige" : "85",
+      "confPrestige" : "82",
       "confName" : "PAC"
     },
     {
@@ -1529,7 +1529,7 @@
         },
         {
           "abbreviation" : "FRES",
-          "prestige" : "54",
+          "prestige" : "52",
           "hexColor" : "#C41230",
           "rival" : "BSU",
           "headCoach" : {
@@ -1553,7 +1553,7 @@
         },
         {
           "abbreviation" : "UNLV",
-          "prestige" : "65",
+          "prestige" : "60",
           "hexColor" : "#1E4D2B",
           "rival" : "USU",
           "headCoach" : {
@@ -1601,7 +1601,7 @@
         },
         {
           "abbreviation" : "WYO",
-          "prestige" : "56",
+          "prestige" : "54",
           "hexColor" : "#492F24",
           "rival" : "CSU",
           "headCoach" : {
@@ -1625,7 +1625,7 @@
         },
         {
           "abbreviation" : "CSU",
-          "prestige" : "52",
+          "prestige" : "48",
           "hexColor" : "#1E4D2B",
           "rival" : "WYO",
           "headCoach" : {
@@ -1649,7 +1649,7 @@
         },
         {
           "abbreviation" : "SDSU",
-          "prestige" : "50",
+          "prestige" : "46",
           "hexColor" : "#A6192E",
           "rival" : "JOSE",
           "headCoach" : {
@@ -1673,7 +1673,7 @@
         },
         {
           "abbreviation" : "JOSE",
-          "prestige" : "46",
+          "prestige" : "44",
           "hexColor" : "#0055A2",
           "rival" : "SD",
           "headCoach" : {
@@ -1697,7 +1697,7 @@
         },
         {
           "abbreviation" : "HI",
-          "prestige" : "46",
+          "prestige" : "42",
           "hexColor" : "#024731",
           "rival" : "USAF",
           "headCoach" : {
@@ -1721,7 +1721,7 @@
         },
         {
           "abbreviation" : "USAF",
-          "prestige" : "48",
+          "prestige" : "46",
           "hexColor" : "#004F98",
           "rival" : "HI",
           "headCoach" : {
@@ -1752,7 +1752,7 @@
       "confTeams" : [
         {
           "abbreviation" : "APP",
-          "prestige" : "50",
+          "prestige" : "48",
           "hexColor" : "#222222",
           "rival" : "MAS",
           "headCoach" : {
@@ -1795,12 +1795,12 @@
             "name" : "George Welsh",
             "contractYear" : "0"
           },
-          "name" : "Navy",
-          "state" : "Maryland"
+          "name" : "Marshall",
+          "state" : "Virginia"
         },
         {
           "abbreviation" : "FAU",
-          "prestige" : "44",
+          "prestige" : "40",
           "hexColor" : "#003366",
           "rival" : "FIU",
           "headCoach" : {
@@ -1824,7 +1824,7 @@
         },
         {
           "abbreviation" : "FIU",
-          "prestige" : "40",
+          "prestige" : "36",
           "hexColor" : "#00205B",
           "rival" : "FAU",
           "headCoach" : {
@@ -1848,7 +1848,7 @@
         },
         {
           "abbreviation" : "ECU",
-          "prestige" : "48",
+          "prestige" : "44",
           "hexColor" : "#592A8A",
           "rival" : "CCU",
           "headCoach" : {
@@ -1896,7 +1896,7 @@
         },
         {
           "abbreviation" : "CCU",
-          "prestige" : "50",
+          "prestige" : "48",
           "hexColor" : "#006F71",
           "rival" : "ECU",
           "headCoach" : {
@@ -1920,7 +1920,7 @@
         },
         {
           "abbreviation" : "CUSE",
-          "prestige" : "66",
+          "prestige" : "64",
           "hexColor" : "#F76900",
           "rival" : "WF",
           "headCoach" : {
@@ -1944,7 +1944,7 @@
         },
         {
           "abbreviation" : "JMU",
-          "prestige" : "56",
+          "prestige" : "54",
           "hexColor" : "#450084",
           "rival" : "CHA",
           "headCoach" : {
@@ -1968,7 +1968,7 @@
         },
         {
           "abbreviation" : "CHA",
-          "prestige" : "46",
+          "prestige" : "40",
           "hexColor" : "#046A38",
           "rival" : "JMU",
           "headCoach" : {
@@ -1992,14 +1992,14 @@
         }
       ],
       "confFullName" : "Sun Belt",
-      "confPrestige" : "45",
+      "confPrestige" : "44",
       "confName" : "SBC"
     },
     {
       "confTeams" : [
         {
           "abbreviation" : "TXT",
-          "prestige" : "65",
+          "prestige" : "66",
           "hexColor" : "#1E6B52",
           "rival" : "BAY",
           "headCoach" : {
@@ -2023,8 +2023,8 @@
         },
         {
           "abbreviation" : "BAY",
-          "prestige" : "64",
-          "hexColor" : "#0066CC",
+          "prestige" : "65",
+          "hexColor" : "#154734",
           "rival" : "TXT",
           "headCoach" : {
             "contractLength" : "3",
@@ -2042,14 +2042,14 @@
             "name" : "Rick Stockstill",
             "contractYear" : "0"
           },
-          "name" : "Texas Tech",
+          "name" : "Baylor",
           "state" : "Texas"
         },
         {
           "abbreviation" : "BYU",
-          "prestige" : "70",
-          "hexColor" : "#CC0000",
-          "rival" : "UTA",
+          "prestige" : "72",
+          "hexColor" : "#002E5D",
+          "rival" : "UTAH",
           "headCoach" : {
             "contractLength" : "3",
             "startYear" : "2020",
@@ -2070,9 +2070,9 @@
           "state" : "UTA"
         },
         {
-          "abbreviation" : "UTA",
+          "abbreviation" : "UTAH",
           "prestige" : "78",
-          "hexColor" : "#081E3F",
+          "hexColor" : "#CC0000",
           "rival" : "BYU",
           "headCoach" : {
             "contractLength" : "5",
@@ -2096,7 +2096,7 @@
         {
           "abbreviation" : "TAM",
           "prestige" : "76",
-          "hexColor" : "#00B140",
+          "hexColor" : "#500000",
           "rival" : "SMU",
           "headCoach" : {
             "contractLength" : "6",
@@ -2120,7 +2120,7 @@
         {
           "abbreviation" : "SMU",
           "prestige" : "74",
-          "hexColor" : "#003057",
+          "hexColor" : "#0033A0",
           "rival" : "TAM",
           "headCoach" : {
             "contractLength" : "5",
@@ -2143,8 +2143,8 @@
         },
         {
           "abbreviation" : "USTA",
-          "prestige" : "54",
-          "hexColor" : "#00853E",
+          "prestige" : "50",
+          "hexColor" : "#F15A22",
           "rival" : "UTEP",
           "headCoach" : {
             "contractLength" : "6",
@@ -2167,8 +2167,8 @@
         },
         {
           "abbreviation" : "UTEP",
-          "prestige" : "50",
-          "hexColor" : "#FF8200",
+          "prestige" : "46",
+          "hexColor" : "#041E42",
           "rival" : "UTSA",
           "headCoach" : {
             "contractLength" : "6",
@@ -2191,8 +2191,8 @@
         },
         {
           "abbreviation" : "TULSA",
-          "prestige" : "46",
-          "hexColor" : "#B01E24",
+          "prestige" : "40",
+          "hexColor" : "#002D72",
           "rival" : "UTS",
           "headCoach" : {
             "contractLength" : "6",
@@ -2215,8 +2215,8 @@
         },
         {
           "abbreviation" : "UTS",
-          "prestige" : "56",
-          "hexColor" : "#003087",
+          "prestige" : "50",
+          "hexColor" : "#660000",
           "rival" : "TULSA",
           "headCoach" : {
             "contractLength" : "5",
@@ -2246,7 +2246,7 @@
       "confTeams" : [
         {
           "abbreviation" : "BUF",
-          "prestige" : "58",
+          "prestige" : "56",
           "hexColor" : "#005BBB",
           "rival" : "NW",
           "headCoach" : {
@@ -2270,9 +2270,9 @@
         },
         {
           "abbreviation" : "NW",
-          "prestige" : "45",
-          "hexColor" : "#C8102E",
-          "rival" : "BALL",
+          "prestige" : "65",
+          "hexColor" : "#4E2A84",
+          "rival" : "BUF",
           "headCoach" : {
             "contractLength" : "4",
             "startYear" : "2020",
@@ -2289,14 +2289,14 @@
             "name" : "Thomas Hammock",
             "contractYear" : "0"
           },
-          "name" : "Northern Illinois",
+          "name" : "Northwestern",
           "state" : "Illinois"
         },
         {
-          "abbreviation" : "MOH",
-          "prestige" : "42",
-          "hexColor" : "#C8102E",
-          "rival" : "OH",
+          "abbreviation" : "MARY",
+          "prestige" : "67",
+          "hexColor" : "#E03a3e",
+          "rival" : "RUT",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -2313,14 +2313,14 @@
             "name" : "Chuck Martin",
             "contractYear" : "0"
           },
-          "name" : "Miami OH",
-          "state" : "Ohio"
+          "name" : "Maryland",
+          "state" : "Maryland"
         },
         {
-          "abbreviation" : "OHIO",
-          "prestige" : "43",
-          "hexColor" : "#00694E",
-          "rival" : "MOH",
+          "abbreviation" : "RUT",
+          "prestige" : "60",
+          "hexColor" : "#cc0033",
+          "rival" : "MRY",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -2337,14 +2337,14 @@
             "name" : "Frank Solich",
             "contractYear" : "0"
           },
-          "name" : "Ohio",
-          "state" : "Ohio"
+          "name" : "Rutgers",
+          "state" : "New Jersey"
         },
         {
-          "abbreviation" : "EMI",
-          "prestige" : "60",
-          "hexColor" : "#046A38",
-          "rival" : "BUF",
+          "abbreviation" : "UCON",
+          "prestige" : "56",
+          "hexColor" : "#000e2f",
+          "rival" : "UMAS",
           "headCoach" : {
             "contractLength" : "4",
             "startYear" : "2020",
@@ -2361,12 +2361,12 @@
             "name" : "Chris Creighton",
             "contractYear" : "0"
           },
-          "name" : "Eastern Michigan",
-          "state" : "Michigan"
+          "name" : "UCONN",
+          "state" : "Connecticut"
         },
         {
           "abbreviation" : "TOL",
-          "prestige" : "49",
+          "prestige" : "40",
           "hexColor" : "#003E7E",
           "rival" : "BOWL",
           "headCoach" : {
@@ -2389,10 +2389,10 @@
           "state" : "Ohio"
         },
         {
-          "abbreviation" : "BALL",
-          "prestige" : "42",
-          "hexColor" : "#BA0C2F",
-          "rival" : "NIU",
+          "abbreviation" : "UMAS",
+          "prestige" : "50",
+          "hexColor" : "#572932",
+          "rival" : "UCON",
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2020",
@@ -2409,14 +2409,14 @@
             "name" : "Mike Neu",
             "contractYear" : "0"
           },
-          "name" : "Ball State",
-          "state" : "Indiana"
+          "name" : "UMASS",
+          "state" : "Massachusetts"
         },
         {
-          "abbreviation" : "AKR",
-          "prestige" : "41",
-          "hexColor" : "#041E42",
-          "rival" : "KENT",
+          "abbreviation" : "WVU",
+          "prestige" : "68",
+          "hexColor" : "#CFAB2B",
+          "rival" : "PURD",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -2433,8 +2433,8 @@
             "name" : "Tom Arth",
             "contractYear" : "0"
           },
-          "name" : "Akron",
-          "state" : "Ohio"
+          "name" : "West Virginia",
+          "state" : "West Virginia"
         },
         {
           "abbreviation" : "BOWL",
@@ -2461,9 +2461,9 @@
           "state" : "Ohio"
         },
         {
-          "abbreviation" : "KENT",
-          "prestige" : "45",
-          "hexColor" : "#002664",
+          "abbreviation" : "PURD",
+          "prestige" : "66",
+          "hexColor" : "#ceb888",
           "rival" : "AKR",
           "headCoach" : {
             "contractLength" : "3",
@@ -2481,21 +2481,21 @@
             "name" : "Sean Lewis",
             "contractYear" : "0"
           },
-          "name" : "Kent State",
-          "state" : "Ohio"
+          "name" : "Purdue",
+          "state" : "Indiana"
         }
       ],
       "confFullName" : "Middle American",
-      "confPrestige" : "36",
+      "confPrestige" : "58",
       "confName" : "MAC"
     },
     {
       "confTeams" : [
         {
-          "abbreviation" : "NDSU",
-          "prestige" : "25",
-          "hexColor" : "#0A5640",
-          "rival" : "SDSU",
+          "abbreviation" : "ARMY",
+          "prestige" : "45",
+          "hexColor" : "#D4BF91",
+          "rival" : "NAVY",
           "headCoach" : {
             "contractLength" : "4",
             "startYear" : "2020",
@@ -2512,14 +2512,14 @@
             "name" : "Matt Entz",
             "contractYear" : "0"
           },
-          "name" : "North Dakota State",
-          "state" : "North Dakota"
+          "name" : "Army",
+          "state" : "New York"
         },
         {
-          "abbreviation" : "SDSU",
-          "prestige" : "25",
-          "hexColor" : "#0033A0",
-          "rival" : "NDSU",
+          "abbreviation" : "Navy",
+          "prestige" : "45",
+          "hexColor" : "#00205B",
+          "rival" : "Army",
           "headCoach" : {
             "contractLength" : "4",
             "startYear" : "2020",
@@ -2536,14 +2536,14 @@
             "name" : "John Stiegelmeier",
             "contractYear" : "0"
           },
-          "name" : "South Dakota State",
-          "state" : "South Dakota"
+          "name" : "Navy",
+          "state" : "Maryland"
         },
         {
-          "abbreviation" : "UNI",
-          "prestige" : "25",
-          "hexColor" : "#4B116F",
-          "rival" : "WIU",
+          "abbreviation" : "EMU",
+          "prestige" : "38",
+          "hexColor" : "#006633",
+          "rival" : "MIOH",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -2560,14 +2560,14 @@
             "name" : "Mike Farley",
             "contractYear" : "0"
           },
-          "name" : "Northern Iowa",
-          "state" : "Iowa"
+          "name" : "Eastern Michigan",
+          "state" : "Michigan"
         },
         {
-          "abbreviation" : "INST",
-          "prestige" : "25",
-          "hexColor" : "#003DA7",
-          "rival" : "YSU",
+          "abbreviation" : "MIOH",
+          "prestige" : "34",
+          "hexColor" : "#b61e2e",
+          "rival" : "EMU",
           "headCoach" : {
             "contractLength" : "3",
             "startYear" : "2020",
@@ -2584,14 +2584,14 @@
             "name" : "Curt Mallory",
             "contractYear" : "0"
           },
-          "name" : "Indiana State",
-          "state" : "Indiana"
+          "name" : "Miami OH",
+          "state" : "Ohio"
         },
         {
-          "abbreviation" : "WIU",
-          "prestige" : "25",
-          "hexColor" : "#663399",
-          "rival" : "UNI",
+          "abbreviation" : "UWM",
+          "prestige" : "42",
+          "hexColor" : "#6C4023",
+          "rival" : "UCM",
           "headCoach" : {
             "contractLength" : "4",
             "startYear" : "2020",
@@ -2608,14 +2608,14 @@
             "name" : "Jared Elliott",
             "contractYear" : "0"
           },
-          "name" : "Western Illinois",
-          "state" : "Illinois"
+          "name" : "Western Michigan",
+          "state" : "Michigan"
         },
         {
-          "abbreviation" : "ILST",
-          "prestige" : "25",
-          "hexColor" : "#CE1126",
-          "rival" : "USD",
+          "abbreviation" : "UCM",
+          "prestige" : "38",
+          "hexColor" : "#6A0032",
+          "rival" : "UWM",
           "headCoach" : {
             "contractLength" : "4",
             "startYear" : "2020",
@@ -2632,14 +2632,14 @@
             "name" : "Brock Spack",
             "contractYear" : "0"
           },
-          "name" : "Illinois State",
-          "state" : "Illinois"
+          "name" : "Central Michigan",
+          "state" : "Michigan"
         },
         {
-          "abbreviation" : "YSU",
-          "prestige" : "25",
-          "hexColor" : "#A71930",
-          "rival" : "INST",
+          "abbreviation" : "NIU",
+          "prestige" : "42",
+          "hexColor" : "#BA0C2F",
+          "rival" : "MOST",
           "headCoach" : {
             "contractLength" : "3",
             "startYear" : "2020",
@@ -2656,14 +2656,14 @@
             "name" : "Doug Phillips",
             "contractYear" : "0"
           },
-          "name" : "Youngstown State",
-          "state" : "Ohio"
+          "name" : "NIU",
+          "state" : "Illinois"
         },
         {
-          "abbreviation" : "USD",
-          "prestige" : "25",
-          "hexColor" : "#BA0C2F",
-          "rival" : "ILST",
+          "abbreviation" : "MOST",
+          "prestige" : "30",
+          "hexColor" : "#5E0009",
+          "rival" : "NIU",
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2020",
@@ -2684,10 +2684,10 @@
           "state" : "South Dakota"
         },
         {
-          "abbreviation" : "MOST",
-          "prestige" : "25",
-          "hexColor" : "#5E0009",
-          "rival" : "SIL",
+          "abbreviation" : "ODU",
+          "prestige" : "30",
+          "hexColor" : "#003057",
+          "rival" : "BALL",
           "headCoach" : {
             "contractLength" : "2",
             "startYear" : "2020",
@@ -2704,14 +2704,14 @@
             "name" : "Bobby Petrino",
             "contractYear" : "0"
           },
-          "name" : "Missouri State",
-          "state" : "Missouri"
+          "name" : "Old Dominion",
+          "state" : "Ohio"
         },
         {
-          "abbreviation" : "SIL",
-          "prestige" : "25",
-          "hexColor" : "#660000",
-          "rival" : "MOST",
+          "abbreviation" : "BALL",
+          "prestige" : "32",
+          "hexColor" : "#BA0C2F",
+          "rival" : "ODU",
           "headCoach" : {
             "contractLength" : "3",
             "startYear" : "2020",
@@ -2728,21 +2728,21 @@
             "name" : "Nick Hill",
             "contractYear" : "0"
           },
-          "name" : "Southern Illinois",
-          "state" : "Illinois"
+          "name" : "Ball State",
+          "state" : "Ohio"
         }
       ],
-      "confFullName" : "Missouri Valley FCS",
-      "confPrestige" : "25",
-      "confName" : "MVFC"
+      "confFullName" : "Central Athletic Conference",
+      "confPrestige" : "30",
+      "confName" : "CAC"
     },
     {
       "confTeams" : [
         {
-          "abbreviation" : "MAI",
-          "prestige" : "25",
-          "hexColor" : "#003263",
-          "rival" : "STON",
+          "abbreviation" : "LU",
+          "prestige" : "60",
+          "hexColor" : "#545AA7",
+          "rival" : "UCF",
           "headCoach" : {
             "contractLength" : "3",
             "startYear" : "2020",
@@ -2759,11 +2759,11 @@
             "name" : "Nick Charlton",
             "contractYear" : "0"
           },
-          "name" : "Maine",
-          "state" : "Maine"
+          "name" : "Liberty",
+          "state" : "Virginia"
         },
         {
-          "abbreviation" : "JMU",
+          "abbreviation" : "U",
           "prestige" : "25",
           "hexColor" : "#450084",
           "rival" : "WM",
