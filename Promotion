@@ -680,7 +680,7 @@
             "name" : "Brian Kelly",
             "contractYear" : "0"
           },
-          "name" : "North Carolina State",
+          "name" : "NC State",
           "state" : "North Carolina"
         },
         {
@@ -2680,8 +2680,8 @@
             "name" : "Bob Nielson",
             "contractYear" : "0"
           },
-          "name" : "South Dakota",
-          "state" : "South Dakota"
+          "name" : "Missouri State",
+          "state" : "Missouri"
         },
         {
           "abbreviation" : "ODU",
@@ -2709,7 +2709,7 @@
         },
         {
           "abbreviation" : "BALL",
-          "prestige" : "32",
+          "prestige" : "36",
           "hexColor" : "#BA0C2F",
           "rival" : "ODU",
           "headCoach" : {
