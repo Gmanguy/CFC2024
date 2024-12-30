@@ -1,22 +1,4 @@
 {  
-  "proRelMode" : "vertical",
-  "promotionRoutes" : {
-    "ECC" : "AAC",
-    "MWC" : "PAC",
-    "AAC" : "SEC",
-    "CUSA" : "XII",
-    "MAC" : "B1G",
-    "CAC" : "MAC",
-    "SBC" : "ACC"
-  },
-  "relegationRoutes" : {
-    "SEC" : "AAC",
-    "B1G" : "MAC",
-    "AAC" : "ECC",
-    "XII" : "CUSA",
-    "PAC" : "MWC",
-    "MAC" : "CAC",
-    "ACC" : "SBC"
   },
   "conferences" : [
     {
@@ -1495,7 +1477,7 @@
           },
           "name" : "Pittsburgh",
           "state" : "Pennsylvania"
-        },
+        }
       ],
       "confFullName" : "American Athletic Conference",
       "confPrestige" : "66",
@@ -2258,7 +2240,7 @@
           },
           "name" : "Colorado State",
           "state" : "Colorado"
-        },
+        }
       ],
       "confFullName" : "Conference USA",
       "confPrestige" : "60",
@@ -2505,7 +2487,7 @@
           },
           "name" : "Rutgers",
           "state" : "New Jersey"
-        },
+        }
       ],
       "confFullName" : "Sun Belt",
       "confPrestige" : "50",
