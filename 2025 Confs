@@ -244,7 +244,7 @@
         }
       ],
       "confFullName" : "Southeastern Conference",
-      "confPrestige" : "95",
+      "confPrestige" : "90",
       "confName" : "SEC"
     },
     {
@@ -738,7 +738,7 @@
         }
       ],
       "confFullName" : "Atlantic Coastal Conference",
-      "confPrestige" : "82",
+      "confPrestige" : "84",
       "confName" : "ACC"
     },
     {
@@ -985,7 +985,7 @@
         }
       ],
       "confFullName" : "Big 12",
-      "confPrestige" : "85",
+      "confPrestige" : "90",
       "confName" : "XII"
     },
     {
@@ -1232,7 +1232,7 @@
         }
       ],
       "confFullName" : "Pac 12",
-      "confPrestige" : "80",
+      "confPrestige" : "84",
       "confName" : "PAC"
     },
     {
@@ -1334,10 +1334,10 @@
           "state" : "Tennessee"
         },
         {
-          "abbreviation" : "CONN",
-          "prestige" : "57",
-          "hexColor" : "#000E2F",
-          "rival" : "PITT",
+          "abbreviation" : "TCU",
+          "prestige" : "71",
+          "hexColor" : "#4d1979",
+          "rival" : "SMU",
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2020",
@@ -1354,8 +1354,8 @@
             "name" : "Randy Edsall",
             "contractYear" : "0"
           },
-          "name" : "UConn",
-          "state" : "Connecticut"
+          "name" : "TCU",
+          "state" : "Texas"
         },
         {
           "abbreviation" : "PITT",
@@ -1385,7 +1385,7 @@
           "abbreviation" : "HOU",
           "prestige" : "65",
           "hexColor" : "#C8102E",
-          "rival" : "SMU",
+          "rival" : "TCU",
           "headCoach" : {
             "contractLength" : "2",
             "startYear" : "2020",
@@ -1973,7 +1973,7 @@
         }
       ],
       "confFullName" : "Sun Belt",
-      "confPrestige" : "45",
+      "confPrestige" : "40",
       "confName" : "SUN"
     },
     {
@@ -2220,7 +2220,7 @@
         }
       ],
       "confFullName" : "Conference USA",
-      "confPrestige" : "39",
+      "confPrestige" : "40",
       "confName" : "CUSA"
     },
     {
@@ -2714,7 +2714,7 @@
         }
       ],
       "confFullName" : "South West",
-      "confPrestige" : "37",
+      "confPrestige" : "40",
       "confName" : "SWC"
     },
     {
@@ -2961,7 +2961,7 @@
         }
       ],
       "confFullName" : "Missouri Valley",
-      "confPrestige" : "35",
+      "confPrestige" : "30",
       "confName" : "MVC"
     }
   ],
