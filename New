@@ -2866,7 +2866,7 @@
         {
           "abbreviation" : "ARST",
           "prestige" : "48",
-          "hexColor" : "#154734",
+          "hexColor" : "#cc092f",
           "rival" : "TXST",
           "headCoach" : {
             "contractLength" : "6",
@@ -2884,14 +2884,14 @@
             "name" : "Jim Fleming",
             "contractYear" : "0"
           },
-          "name" : "Portland St",
-          "state" : "Oregon"
+          "name" : "Arkansas St",
+          "state" : "Arkansas"
         },
         {
-          "abbreviation" : "SAC",
-          "prestige" : "39",
-          "hexColor" : "#115740",
-          "rival" : "UCD",
+          "abbreviation" : "LATC",
+          "prestige" : "48",
+          "hexColor" : "#002F8B",
+          "rival" : "ULA",
           "headCoach" : {
             "contractLength" : "3",
             "startYear" : "2020",
@@ -2908,14 +2908,14 @@
             "name" : "Mike London",
             "contractYear" : "0"
           },
-          "name" : "Sacramento St",
-          "state" : "California"
+          "name" : "Louisiana Tech",
+          "state" : "Louisiana"
         },
         {
-          "abbreviation" : "UCD",
-          "prestige" : "31",
-          "hexColor" : "#6C4023",
-          "rival" : "SAC",
+          "abbreviation" : "ULA",
+          "prestige" : "50",
+          "hexColor" : "#ce181e",
+          "rival" : "LATC",
           "headCoach" : {
             "contractLength" : "2",
             "startYear" : "2020",
@@ -2932,14 +2932,14 @@
             "name" : "Sean McDonnell",
             "contractYear" : "0"
           },
-          "name" : "UC Davis",
-          "state" : "California"
+          "name" : "Louisiana",
+          "state" : "Louisiana"
         },
         {
-          "abbreviation" : "MOST",
-          "prestige" : "38",
-          "hexColor" : "#5E0009",
-          "rival" : "NDST",
+          "abbreviation" : "TXST",
+          "prestige" : "46",
+          "hexColor" : "#bf0a30",
+          "rival" : "ARKST",
           "headCoach" : {
             "contractLength" : "4",
             "startYear" : "2020",
@@ -2956,13 +2956,13 @@
             "name" : "Mark Ferrante",
             "contractYear" : "0"
           },
-          "name" : "Missouri St",
-          "state" : "Missouri"
+          "name" : "Texas St",
+          "state" : "Texas"
         }
       ],
-      "confFullName" : "Missouri Valley",
-      "confPrestige" : "30",
-      "confName" : "MVC"
+      "confFullName" : "Western Athletic",
+      "confPrestige" : "40",
+      "confName" : "WAC"
     }
   ],
   "bowlGames" : [
